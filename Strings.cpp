@@ -10,3 +10,5 @@ int hello() {
 // Mandatory semicolons;
 
 cout << txt.length(); // 11
+
+cout << txt[0]; // H
