@@ -1,4 +1,4 @@
-String txt = "Hello World!";
+string txt = "Hello World!";
 
 cout << txt;
 
