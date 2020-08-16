@@ -8,3 +8,5 @@ int hello() {
 }
 
 // Mandatory semicolons;
+
+cout << txt.length(); // 11
