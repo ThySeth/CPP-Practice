@@ -12,3 +12,7 @@ int hello() {
 cout << txt.length(); // 11
 
 cout << txt[0]; // H
+
+txt[0] = "J";
+
+cout << txt; // Jello World!
