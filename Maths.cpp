@@ -19,3 +19,7 @@ cout << ++e; // 2
 cout << --e; // 0
 
 ///
+
+int f = rand() % 10 + 1; // Number between 1 and 10
+  
+cout << f;
