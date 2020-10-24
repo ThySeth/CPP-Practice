@@ -1,7 +1,7 @@
 #include <iostream>
 
-using std::cout;
-using std::cin;
+using std::cout; // These will let me remove "std::" at the beginning of each cout and cin
+using std::cin; // I just forgot to remove them on the ones below
 
 int main() {
   
